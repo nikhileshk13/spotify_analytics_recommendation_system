@@ -14,7 +14,7 @@ The favorite songs, albums and artists are determined by a score calculated by a
 <br><br>
 For recommendations system a created a tfidf feature set and consine similarity to find the top 50 songs based on user's current listening habits.
 <br>I used the following dataset <br>
-<a href="https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Dataset link</a>
+<a href="https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Dataset link</a><br>
 <br>This dataset has limitations since the number of songs in this dataset is limited so that list of recommended songs might not completelety refelct the currect listening habits of the user.
 <br>Here's an example of recommended songs<br>
 <p>
