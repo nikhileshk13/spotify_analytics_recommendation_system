@@ -10,4 +10,14 @@ The following image shows the different statistics I have found using this data:
 </p>
 The favorite songs, albums and artists are determined by a score calculated by assigning appropriate weights to each feature. 
 <br><br>
-<a href="https://nbviewer.org/github/nikhileshk13/spotify_analytics_recommendation_system/blob/main/spotify_userdata_analytics_plotly_final.ipynb">Click here to view the python notebook</a>
+<a href="https://nbviewer.org/github/nikhileshk13/spotify_analytics_recommendation_system/blob/main/spotify_userdata_analytics_plotly_final.ipynb">Click here to view the analytics</a>
+<br><br>
+For recommendations system a created a tfidf feature set and consine similarity to find the top 50 songs based on user's current listening habits.
+<br>I used the following dataset <br>
+<a href="https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify"></a>
+<br>This dataset has limitations since the number of songs in this dataset is limited so that list of recommended songs might not completelety refelct the currect listening habits of the user.
+<br>Here's an example of recommended songs<br>
+<p>
+  <img src="https://github.com/nikhileshk13/spotify_analytics_recommendation_system/blob/main/images/recommendations.png">
+</p>
+
